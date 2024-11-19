@@ -1,0 +1,7 @@
+File: g1_24649.sol
+
+Node Features:
+[['C0', 'C0', 'NoLimit', ['NULL'], 0, 'NULL'], ['S', 'S', 'LimitedAC', ['W0'], 2, 'MSG'], ['VAR0', 'VAR0', 'W0', 1, 'ASSIGN'], ['VAR1', 'VAR1', 'W0', 1, 'ASSIGN'], ['W0', 'W0', 'LimitedAC', ['NULL'], 1, 'NULL']]
+
+Edge Features:
+[['W0', 'VAR0', 'W0', 1, 'FW'], ['VAR1', 'S', 'W0', 2, 'RH']]

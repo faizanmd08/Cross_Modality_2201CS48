@@ -1,0 +1,21 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting blosc2
+  Using cached blosc2-2.5.1.tar.gz (4.7 MB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Requirement already satisfied: numpy>=1.20.3 in /home/faizan/.local/lib/python3.8/site-packages (from blosc2) (1.24.4)
+Collecting ndindex>=1.4 (from blosc2)
+  Using cached ndindex-1.8-py3-none-any.whl.metadata (3.4 kB)
+Collecting msgpack (from blosc2)
+  Using cached msgpack-1.1.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (8.4 kB)
+Requirement already satisfied: py-cpuinfo in /usr/lib/python3/dist-packages (from blosc2) (9.0.0)
+Using cached ndindex-1.8-py3-none-any.whl (91 kB)
+Using cached msgpack-1.1.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (381 kB)
+Building wheels for collected packages: blosc2
+  Building wheel for blosc2 (pyproject.toml): started
+  Building wheel for blosc2 (pyproject.toml): finished with status 'error'
+Failed to build blosc2

@@ -1,0 +1,7 @@
+block_0 [label="0: PUSH1 0x4c\l2: PUSH1 0x2c\l4: PUSH1 0xb\l6: DUP3 \l7: DUP3 \l8: DUP3 \l9: CODECOPY \la: DUP1 \lb: MLOAD \lc: PUSH1 0x0\le: BYTE \lf: PUSH1 0x73\l11: EQ \l12: PUSH1 0x0\l14: DUP2 \l15: EQ \l16: PUSH1 0x1c\l18: JUMPI \l"]
+block_19 [label="19: PUSH1 0x1e\l1b: JUMP \l"]
+block_1c [label="1c: JUMPDEST \l1d: INVALID \l"]
+block_1e [label="1e: JUMPDEST \l1f: POP \l20: ADDRESS \l21: PUSH1 0x0\l23: MSTORE \l24: PUSH1 0x73\l26: DUP2 \l27: MSTORE8 \l28: DUP3 \l29: DUP2 \l2a: RETURN \l"]
+block_2b [label="2b: STOP \l"]
+block_2c [label="2c: PUSH20 0x0\l41: ADDRESS \l42: EQ \l43: PUSH1 0x80\l45: PUSH1 0x40\l47: MSTORE \l48: PUSH1 0x0\l4a: DUP1 \l4b: REVERT \l"]
+block_4c [label="4c: STOP \l"]
